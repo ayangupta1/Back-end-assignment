@@ -42,7 +42,7 @@ class PostEditor extends Component
               ]);
               return;
          }
-           $arr['id']= $id;
+           
          $this->post->user_id = auth()->user()->id;
           if(!isset($this->post->id)){
           $this->post->slug = str::slug($this->post->title);
