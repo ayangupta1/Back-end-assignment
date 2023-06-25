@@ -53,8 +53,8 @@
                     <div class="col-span-1">
                         <div class="flex items-center justify-center h-full px-6 py-4 mt-6 mr-2 bg-white rounded-lg shadow-sm">
                             <div>
-                                <h2 class="w-full text-3xl font-bold text-center text-gray-900">5</h2>
-                                <p class="w-full text-sm text-center text-gray-500">Posts</p>
+                               
+                                <p class="w-full text-sm text-center text-gray-500">Global warming: a ticking time bomb. Rising temperatures, melting ice caps, extreme weather events—our planet is in peril. It's time to take urgent action and protect our only home. </p>
                                 <a href="/dashboard/posts/create" class="inline-block px-4 py-2 mt-5 text-sm font-medium text-gray-700 border border-gray-300 rounded">Add New</a>
                             </div>
                         </div>
@@ -65,10 +65,11 @@
                     <div class="col-span-1">
                         <div class="flex items-center justify-center h-full px-6 py-4 mt-6 mr-2 bg-white rounded-lg shadow-sm">
                             <div>
-                                <h2 class="w-full text-3xl font-bold text-center text-gray-900">2</h2>
-                                <p class="w-full text-sm text-center text-gray-500">Users</p>
-                                <a href="/dashboard/posts/create" class="inline-block px-4 py-2 mt-5 text-sm font-medium text-gray-700 border border-gray-300 rounded">Add New</a>
-                            </div>
+                                
+                                <p class="w-full text-sm text-center text-gray-500"> Gaming has transcended its reputation as a mere hobby and transformed into a global phenomenon known as eSports. In this digital era, virtual worlds have become the new battlegrounds where players showcase their skills, compete for glory, and captivate millions of fans worldwide.
+
+The concept of eSports originated from the competitive gaming culture, where players would gather in arcades or LAN parties to challenge each other. However, with the advent of the internet and streaming platforms, eSports has skyrocketed in popularity, captivating a massive audience that rivals traditional sports</p>
+                                
                         </div>
                     </div>
 
